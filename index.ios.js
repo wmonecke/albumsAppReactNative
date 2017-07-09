@@ -22,6 +22,7 @@ const App = () => {
 const styles = {
   viewStyle: {
     height: '100%'
+
   }
 };
 // Render the created component to the mobile device.

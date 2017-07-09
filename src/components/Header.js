@@ -16,7 +16,7 @@ const styles = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 8,
+    marginBottom: 5,
     backgroundColor: '#efefef',
     height: '10%',
     shadowColor: 'black',
